@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on an asset management system for fire suppression systems.
-🌱 I’m currently learning .NET Maui.
-
-Last Edited on: 2022/05/09
+- 👷‍♂️ I’m currently working on telemetry and instrumentation solutions to fasciliate distributed fire infrastructure management using IoT.
+- 🌱 I’m currently learning .NET Maui and ML.NET.
+- ⚡ Fun fact: I also enjoy dabbling in game development.
+ 
